@@ -1,0 +1,544 @@
+.homepage-iot {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 120rem;
+  height: 404.75rem;
+  overflow: hidden;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 356.81rem;
+  left: 7.69rem;
+  background-color: var(--color-gray);
+  width: 90rem;
+  height: 38.56rem;
+}
+.desktop-1-item {
+  position: absolute;
+  top: -1.31rem;
+  left: -1.56rem;
+  width: 123.13rem;
+  height: 70.63rem;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.logo-cendekiaiot-2-logo-putih {
+  position: absolute;
+  top: 2.69rem;
+  left: calc(50% - 909px);
+  width: 24.69rem;
+  height: 8.44rem;
+  object-fit: cover;
+}
+.home,
+.our-stories {
+  position: absolute;
+  top: 3.63rem;
+  left: 59.31rem;
+}
+.our-stories {
+  left: 96.19rem;
+}
+.desktop-1-inner,
+.en {
+  position: absolute;
+  top: 3.75rem;
+  left: 111.81rem;
+}
+.desktop-1-inner {
+  top: 4.06rem;
+  left: 110.19rem;
+  width: 1.13rem;
+  height: 0.88rem;
+}
+.simplify {
+  color: var(--color-mediumspringgreen);
+}
+.a-single-application,
+.we-simplify-the-container {
+  position: absolute;
+  left: 6.38rem;
+  line-height: 131.9%;
+  display: inline-block;
+}
+.we-simplify-the-container {
+  top: 22.69rem;
+  font-size: 3.44rem;
+  width: 62.94rem;
+  height: 7.81rem;
+}
+.a-single-application {
+  top: 33.88rem;
+  width: 40.44rem;
+  height: 6.56rem;
+}
+.group-icon {
+  position: absolute;
+  top: 60.06rem;
+  left: 56.5rem;
+  width: 7rem;
+  height: 1.13rem;
+}
+.developers,
+.industries {
+  position: absolute;
+  top: 3.63rem;
+  left: 82.13rem;
+}
+.industries {
+  left: 69.06rem;
+}
+.group-child {
+  border-radius: var(--br-21xl) 0 var(--br-21xl) 0;
+  background-color: var(--color-chocolate);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+}
+.group-child,
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.94rem;
+  height: 5.54rem;
+}
+.learn-more {
+  position: absolute;
+  top: 1.76rem;
+  left: 2.1rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 11.66rem;
+  height: 1.76rem;
+}
+.group-parent {
+  position: absolute;
+  top: 46.88rem;
+  left: 6.38rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 15.94rem;
+  height: 5.54rem;
+  text-align: center;
+}
+.desktop-1-child1,
+.rectangle-div,
+.rectangle-icon {
+  position: absolute;
+  left: 0;
+  width: 120rem;
+  height: 67.5rem;
+}
+.rectangle-div {
+  top: 67.5rem;
+  background-color: var(--color-gray);
+}
+.desktop-1-child1,
+.rectangle-icon {
+  top: 135rem;
+  object-fit: cover;
+  mix-blend-mode: soft-light;
+}
+.desktop-1-child1 {
+  top: 202.5rem;
+  mix-blend-mode: overlay;
+}
+.desktop-1-child2,
+.desktop-1-child3 {
+  position: absolute;
+  top: 270rem;
+  left: 0;
+  background-color: var(--color-chocolate);
+  width: 120rem;
+  height: 67.5rem;
+}
+.desktop-1-child3 {
+  top: 337.5rem;
+  background-color: var(--color-darkslategray);
+}
+.desktop-1-child4,
+.group-container {
+  position: absolute;
+  top: 195.88rem;
+  left: 56.5rem;
+  width: 7rem;
+  height: 1.13rem;
+}
+.group-container {
+  top: 186.94rem;
+  left: 11rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 15.94rem;
+  height: 5.54rem;
+  text-align: center;
+}
+.contact-sales {
+  position: absolute;
+  top: 1.88rem;
+  left: 1.06rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 13.81rem;
+  height: 1.75rem;
+}
+.group-div {
+  position: absolute;
+  top: 383.94rem;
+  left: 13.94rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 15.94rem;
+  height: 5.54rem;
+  text-align: center;
+}
+.span {
+  color: var(--color-chocolate);
+}
+.our-products {
+  position: absolute;
+  top: 210.13rem;
+  left: 44.31rem;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  text-align: center;
+  width: 31.38rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-cendekiaiot-2-logo-putih2 {
+  position: absolute;
+  top: 77.88rem;
+  left: 62rem;
+  width: 50.38rem;
+  height: 50.38rem;
+  object-fit: cover;
+}
+.cendekia-iot {
+  position: absolute;
+  top: 80.81rem;
+  left: 11rem;
+  font-size: 4.44rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 31.44rem;
+  height: 5.38rem;
+}
+.cendekia-iot1 {
+  font-family: var(--font-montserrat);
+  color: var(--color-chocolate);
+}
+.is-your-gateway {
+  letter-spacing: -0.01em;
+}
+.cendekia-iot-is-your-gateway-t {
+  margin-block-start: 0;
+  margin-block-end: 11px;
+}
+.imagine-a-future {
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.cendekia-iot-is-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.cendekia-iot-is-container,
+.offering-all-the {
+  position: absolute;
+  left: 11rem;
+  font-size: var(--font-size-16xl);
+}
+.cendekia-iot-is-container {
+  top: 88.88rem;
+  line-height: 130.5%;
+  display: flex;
+  align-items: center;
+  width: 43.31rem;
+  height: 30.38rem;
+}
+.offering-all-the {
+  top: 156.13rem;
+  letter-spacing: 0.02em;
+  line-height: 131.5%;
+  display: inline-block;
+  width: 53.13rem;
+}
+.span1 {
+  color: #22b473;
+}
+.a-fully-integrated-container {
+  position: absolute;
+  top: 145.13rem;
+  left: 11rem;
+  font-size: var(--font-size-31xl);
+  line-height: 131.9%;
+  display: inline-block;
+  width: 46.5rem;
+  height: 8.06rem;
+}
+.discover-cendekia-iots {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.additionally-feel-free {
+  margin: 0;
+}
+.cendekia-internet-of,
+.discover-cendekia-iots-container {
+  position: absolute;
+  top: 357.56rem;
+  left: 14.25rem;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.02em;
+  line-height: 126.5%;
+  font-weight: 500;
+  display: inline-block;
+  width: 48.63rem;
+}
+.cendekia-internet-of {
+  top: 398.69rem;
+  left: 68.75rem;
+  font-size: var(--font-size-xl);
+  line-height: 156%;
+  color: #5a5a5a;
+  text-align: center;
+  width: 49.5rem;
+  height: 5.81rem;
+}
+.no-more-scrolling-container,
+.smart-aquaponics {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.no-more-scrolling-container {
+  top: 351.25rem;
+  left: 13.94rem;
+  font-size: var(--font-size-31xl);
+  line-height: 131.9%;
+  width: 51rem;
+  height: 7.81rem;
+}
+.smart-aquaponics {
+  top: 257.25rem;
+  left: 20.06rem;
+  font-size: var(--font-size-16xl);
+  text-align: center;
+  width: 22.19rem;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.desktop-1-inner1,
+.desktop-1-inner2,
+.desktop-1-inner3 {
+  position: absolute;
+  top: 243.06rem;
+  left: 24.94rem;
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.3);
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.desktop-1-inner2,
+.desktop-1-inner3 {
+  left: 53.75rem;
+}
+.desktop-1-inner3 {
+  left: 82.56rem;
+}
+.hydropro,
+.wilmos {
+  position: absolute;
+  top: calc(50% + 543px);
+  display: inline-block;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.wilmos {
+  left: calc(50% - 546.89px);
+  font-size: var(--font-size-16xl);
+  width: 11.25rem;
+  mix-blend-mode: normal;
+}
+.hydropro {
+  left: calc(50% - 108.89px);
+  width: 14.19rem;
+}
+.hydropro,
+.icams,
+.smart-water-dispenser {
+  font-size: var(--font-size-16xl);
+  mix-blend-mode: normal;
+}
+.smart-water-dispenser {
+  position: absolute;
+  top: calc(50% + 543px);
+  left: calc(50% + 231.11px);
+  display: inline-block;
+  text-align: center;
+  width: 29.19rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.icams {
+  top: calc(50% + 876px);
+  left: calc(50% - 84.89px);
+  width: 11.25rem;
+}
+.hydropro1,
+.icams,
+.smart-fish-feeder {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.smart-fish-feeder {
+  top: calc(50% + 876px);
+  left: calc(50% + 294.11px);
+  font-size: var(--font-size-16xl);
+  width: 21.5rem;
+  mix-blend-mode: normal;
+}
+.hydropro1 {
+  top: 230.56rem;
+  left: 54.13rem;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 11.13rem;
+}
+.rectangle-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.3);
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.favicon2-1 {
+  position: absolute;
+  top: 1.52rem;
+  left: 1.52rem;
+  width: 9.45rem;
+  height: 9.45rem;
+  object-fit: cover;
+}
+.favicon-3,
+.group-parent1 {
+  position: absolute;
+  top: 222.25rem;
+  left: 53.75rem;
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.favicon-3 {
+  top: 1.37rem;
+  left: 1.37rem;
+  width: 9.6rem;
+  height: 9.6rem;
+  object-fit: cover;
+}
+.favicon-4,
+.group-parent2 {
+  position: absolute;
+  top: 222.25rem;
+  left: 82.56rem;
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.favicon-4 {
+  top: 1.07rem;
+  left: 1.07rem;
+  width: 10.21rem;
+  height: 10.21rem;
+  object-fit: cover;
+}
+.group-parent3 {
+  position: absolute;
+  top: 222.25rem;
+  left: 24.94rem;
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.design {
+  color: var(--color-darkslategray);
+}
+.creative-intuitive-container {
+  position: absolute;
+  top: 276.75rem;
+  left: 37.06rem;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  text-align: center;
+  width: 45.81rem;
+}
+.user-friendly-apps {
+  position: absolute;
+  top: 291.31rem;
+  left: 13rem;
+  font-weight: 600;
+  color: var(--color-darkslategray);
+  text-align: justify;
+  display: inline-block;
+  width: 41.38rem;
+}
+.benefits-both-your-container {
+  position: absolute;
+  top: 294.44rem;
+  left: 13rem;
+  font-size: var(--font-size-31xl);
+  line-height: 131.9%;
+  display: inline-block;
+  width: 49.06rem;
+  height: 7.81rem;
+}
+.cendekia-iot2 {
+  font-weight: 800;
+}
+.span2 {
+  font-family: var(--font-montserrat);
+}
+.empowers-companies-to {
+  font-weight: 500;
+  color: var(--color-darkslategray);
+}
+.cendekia-iot-empowers-container {
+  position: absolute;
+  top: 305.25rem;
+  left: 13rem;
+  letter-spacing: 0.02em;
+  line-height: 156%;
+  display: inline-block;
+  width: 39.63rem;
+}
+.mobile-1-icon,
+.mobile-2-1 {
+  position: absolute;
+  top: 285.06rem;
+  left: 84.88rem;
+  border-radius: 41px;
+  width: 21.63rem;
+  height: 43.81rem;
+  object-fit: cover;
+}
+.mobile-2-1 {
+  top: 294.44rem;
+  left: 70rem;
+  border-radius: 37px;
+  width: 18.56rem;
+  height: 37.44rem;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 405rem;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
